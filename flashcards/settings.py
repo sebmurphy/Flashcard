@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-vz4km-#lg_8rp4u8+i&atvsdy&m#y%7o4ul7l%(#75hsy&_f&y
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['flashcard-idpt.onrender.com']
 
 
 # Application definition
